@@ -28,7 +28,6 @@ const PropertyDropdown = () => {
           <RiArrowDownSLine className="dropdown-icon-secondary" />
         )}
       </Menu.Button>
-
       <Menu.Items className="dropdown-menu">
         {properties.map((property, index) => {
           return (
