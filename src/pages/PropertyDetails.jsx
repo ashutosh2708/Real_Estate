@@ -1,5 +1,4 @@
 import React from "react";
-
 // import houseData
 import { housesData } from "../data";
 //  useParams
