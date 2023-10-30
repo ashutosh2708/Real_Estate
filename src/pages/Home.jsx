@@ -1,5 +1,4 @@
 import React from "react";
-// import components
 import HouseList from "../components/HouseList";
 import Banner from "../components/Banner";
 
